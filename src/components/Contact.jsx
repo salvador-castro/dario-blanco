@@ -70,8 +70,8 @@ export default function Contact() {
                 </svg>
               ),
               label: 'Ubicación',
-              value: 'Villa Urquiza, CABA',
-              href: null,
+              value: 'Av. Congreso 5336, Villa Urquiza, CABA',
+              href: 'https://maps.google.com/?q=Av.+Congreso+5336+Villa+Urquiza+Buenos+Aires',
             },
           ].map((item) => (
             <div

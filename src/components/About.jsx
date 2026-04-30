@@ -34,7 +34,7 @@ const features = [
       </svg>
     ),
     title: 'Villa Urquiza',
-    desc: 'Un espacio exclusivo en el corazón de Villa Urquiza, Buenos Aires.',
+    desc: 'Av. Congreso 5336, Villa Urquiza, CABA. En el corazón del barrio.',
   },
 ]
 
