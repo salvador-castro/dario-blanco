@@ -31,7 +31,7 @@ export default function Hero() {
           }}
         />
         <span
-          className="text-xs tracking-[0.3em] uppercase rotate-90 text-gray-400"
+          className="text-xs tracking-[0.3em] uppercase text-gray-400"
           style={{ writingMode: "vertical-rl" }}
         >
           Scroll
